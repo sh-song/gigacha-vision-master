@@ -1,4 +1,9 @@
 # gigacha_vision_master
+## How to use
+1. git clone --recurisve https://github.com/sh-song/gigacha_vision_master.git
+2. ./run_all.sh
+3. ./kil_all.sh
+
 All modules(lidar, fusion, yolo, ...) are in 'modules' directory as github submodules.
 
 Each module should contain:
