@@ -1,0 +1,3 @@
+[submodule "modules/gigacha_sensorfusion"]
+	path = modules/gigacha_sensorfusion
+	url = https://github.com/beomh/gigacha_sensorfusion.git
