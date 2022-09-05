@@ -1,6 +1,6 @@
 # gigacha_vision_master
 ## How to use
-1. git clone --recurisve https://github.com/sh-song/gigacha_vision_master.git
+1. git clone --recurisve https://github.com/sh-song/gigacha-vision-master.git
 2. ./run_all.sh
 3. ./kil_all.sh
 
@@ -12,7 +12,7 @@ Each module should contain:
 3. run.sh
 on its uppermost directory.
 
-Container name in 'run.sh' >> container_list.json in this repo
+Container name in 'run.sh' >> module_list.json in this repo
 
 TODO
 1. add submodules in 'modules' directory
