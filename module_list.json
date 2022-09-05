@@ -1,0 +1,15 @@
+{
+    "obstacle-tracker":
+    {
+        "repo name": "obstacle-tracker",
+        "container name": "obstacle-tracker"
+
+    },
+
+    "sensor fusion":
+    {
+        "repo name":"gigacha_sensorfusion",
+        "container name": "TBD"
+    }
+        
+}
