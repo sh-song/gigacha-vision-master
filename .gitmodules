@@ -1,3 +1,6 @@
 [submodule "modules/gigacha_sensorfusion"]
 	path = modules/gigacha_sensorfusion
 	url = https://github.com/beomh/gigacha_sensorfusion.git
+[submodule "modules/obstacle-tracker"]
+	path = modules/obstacle-tracker
+	url = https://github.com/sh-song/obstacle-tracker.git
