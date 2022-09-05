@@ -1,6 +1,6 @@
-# gigacha_vision_master
+# gigacha-vision-master
 ## How to use
-1. git clone --recurisve https://github.com/sh-song/gigacha-vision-master.git
+1. git clone --recursive https://github.com/sh-song/gigacha-vision-master.git
 2. ./run_all.sh
 3. ./kil_all.sh
 
