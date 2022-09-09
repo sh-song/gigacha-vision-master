@@ -4,3 +4,9 @@
 [submodule "modules/obstacle-tracker"]
 	path = modules/obstacle-tracker
 	url = https://github.com/sh-song/obstacle-tracker.git
+[submodule "modules/vlp16_docker"]
+	path = modules/vlp16_docker
+	url = https://github.com/sh-song/vlp16_docker.git
+[submodule "modules/GIGACHA_VISION_TRAFFIC"]
+	path = modules/GIGACHA_VISION_TRAFFIC
+	url = https://github.com/Hello-Hyuk/GIGACHA_VISION_TRAFFIC.git
