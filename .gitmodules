@@ -10,3 +10,6 @@
 [submodule "modules/GIGACHA_VISION_TRAFFIC"]
 	path = modules/GIGACHA_VISION_TRAFFIC
 	url = https://github.com/Hello-Hyuk/GIGACHA_VISION_TRAFFIC.git
+[submodule "modules/GIGACHA_VISION_SIGN"]
+	path = modules/GIGACHA_VISION_SIGN
+	url = https://github.com/Hello-Hyuk/GIGACHA_VISION_SIGN.git
