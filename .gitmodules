@@ -13,3 +13,6 @@
 [submodule "modules/GIGACHA_VISION_SIGN"]
 	path = modules/GIGACHA_VISION_SIGN
 	url = https://github.com/Hello-Hyuk/GIGACHA_VISION_SIGN.git
+[submodule "modules/velodyne-docker"]
+	path = modules/velodyne-docker
+	url = https://github.com/sh-song/velodyne-docker.git
