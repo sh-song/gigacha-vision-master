@@ -16,3 +16,9 @@
 [submodule "modules/velodyne-docker"]
 	path = modules/velodyne-docker
 	url = https://github.com/sh-song/velodyne-docker.git
+[submodule "modules/gigacha-vision-traffic"]
+	path = modules/gigacha-vision-traffic
+	url = https://github.com/Hello-Hyuk/gigacha-vision-traffic.git
+[submodule "modules/gigacha-vision-sign"]
+	path = modules/gigacha-vision-sign
+	url = https://github.com/Hello-Hyuk/gigacha-vision-sign.git
